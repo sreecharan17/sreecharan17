@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sreecharan17
-- 👀 I’m interested in Artificial Intelligence
+- 👋 Hi, I’m sreecharan
+- 👀 I’m interested in Artificial Intelligence 
 - 🌱 I’m currently learning AI,Robotics
 
 <!---
